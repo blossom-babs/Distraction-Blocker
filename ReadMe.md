@@ -1,7 +1,7 @@
 ### 📺 Distraction Blocker
 
 **About:**  
-Tired of getting sucked into YouTube's catchy thumbnails and forgetting your reason for visiting? **Distraction Blocker** is a Chrome extension designed to help you stay focused. It replaces YouTube thumbnails and video titles with a simple black image and a reminder to focus, allowing you to regain control of your browsing experience.
+**Distraction Blocker** is a Chrome extension designed to help you stay focused. It replaces YouTube thumbnails and video titles with a simple black image and a reminder to focus, allowing you to regain control of your browsing experience.
 
 ---
 
